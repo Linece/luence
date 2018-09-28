@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: luenceJDBC
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: luence01
+Build-Jdk: 1.7.0_79
+Built-By: Administrator
+Created-By: Maven Integration for Eclipse
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/luenceJDBC
+

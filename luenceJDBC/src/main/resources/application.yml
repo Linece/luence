@@ -1,0 +1,9 @@
+spring:
+    datasource:
+        driverClassName: com.mysql.cj.jdbc.Driver
+        url: jdbc:mysql://localhost/luence01?serverTimezone=GMT%2B8
+        username: root
+        password: root
+server:
+    port: 8081
+        
